@@ -1,7 +1,5 @@
 ### Hi there :metal:, I'm Marcos Felipe
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=omarkdev" alt="omarkdev" /></p>
-
 - 🔭 I’m currently working on [Crawly](https://github.com/crawly)
 - :city_sunrise: I'm currently living in Bauru, São Paulo
 - 📫 How to reach me: omarkdev@gmail.com
