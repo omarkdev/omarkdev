@@ -1,19 +1,47 @@
-### Marcos Felipe
+## Marcos Felipe
+
+Software Developer.
 
 :house:    Bauru - São Paulo <br>
-:envelope:  omarkdev@gmail.com
+:mailbox:  omarkdev@gmail.com
 
 My name is Marcos Felipe.
 
+#### Education
+
+* **Database** <br>
+*FATEC BAURU* <br>
+2015 - 2019
+
 #### Experience
 
-* __Out Paper WordPress Developer Outsourced (2015-2016).__
-* __Agency Koop Full Stack Web Developer Outsourced (2015-2016).__
-* __Wi propaganda Full Stack Web Developer Outsourced (2015-2016).__
-* __Freelancer Full Stack Developer (2015-2017)__
-* __Trainee at Instituto Soma (May 2016 through June 2016)__
-* __Software Developer at NeoAssist (Apr 2017 - Dez 2018)__
-* __Senior Developer at Crawly (Dez 2018 - Currently)__
+* **Wordpress Developer Outsourced** ***@ Out Paper***<br>
+*2015 - 2016*
+
+* **Full Stack Web Developer Outsourced** ***@ Agency Loop***<br>
+*2015 - 2016*
+
+* **Full Stack Web Developer Outsourced** ***@ Wi Propaganda***<br>
+*2015 - 2016*
+
+* **Freelancer Full Stack**<br>
+*2015 - 2016*
+
+* **Trainee** ***@ Instituto Soma***<br>
+*May, 2016 - June, 2016*
+
+* **Freelancer Full Stack**<br>
+*June, 2016 - Apr, 2017*
+
+* **Full Stack** ***@ NeoAssist***
+*Apr, 2017 - Dec, 2018*
+
+* **Senior Developer** ***@ Crawly***
+*Dec, 2018 - Currently*
+
+* **Full Stack** ***@ Galata***
+*Sept, 2019 - Currently*
+
 
 #### Education
 
