@@ -33,29 +33,14 @@ My name is Marcos Felipe.
 * **Freelancer Full Stack**<br>
 *June, 2016 - Apr, 2017*
 
-* **Full Stack** ***@ NeoAssist***
+* **Full Stack** ***@ NeoAssist***<br>
 *Apr, 2017 - Dec, 2018*
 
-* **Senior Developer** ***@ Crawly***
+* **Senior Developer** ***@ Crawly***<br>
 *Dec, 2018 - Currently*
 
-* **Full Stack** ***@ Galata***
+* **Full Stack** ***@ Galata***<br>
 *Sept, 2019 - Currently*
-
-
-#### Education
-
-* Database in FATEC Bauru - Completed
-* Elementary and High School in E. E. Miguel Marvullo - __Completed__
-
-#### Projects
-
-* Vue Jobs Brazil
-  * https://github.com/vuejobsbrasil
-* CrowLabs
-  * https://t.me/crowlabs
-* Mentor of Training Center
-* Member of DevTalks organization
 
 #### Professional information
 
