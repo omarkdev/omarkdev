@@ -9,9 +9,8 @@ My name is Marcos Felipe.
 
 #### Education
 
-* **Database** <br>
-*FATEC BAURU* <br>
-2015 - 2019
+* **Graduation in Database** ***@ FATEC Bauru*** <br>
+*2015 - 2019*
 
 #### Experience
 
