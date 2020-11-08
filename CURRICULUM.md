@@ -1,16 +1,14 @@
 ## Marcos Felipe
 
-Software Developer.
-
 :house:    Bauru - São Paulo <br>
 :mailbox:  omarkdev@gmail.com
 
-### Education
+#### Education
 
 * **Graduation in Database** ***@ FATEC Bauru*** <br>
 *2015 - 2019*
 
-### Experience
+#### Experience
 
 * **Wordpress Developer Outsourced** ***@ Out Paper***<br>
 *2015 - 2016*
