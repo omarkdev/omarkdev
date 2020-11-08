@@ -1,5 +1,10 @@
 ### Marcos Felipe
 
+:house:    Bauru - São Paulo <br>
+:envelope:  omarkdev@gmail.com
+
+My name is Marcos Felipe.
+
 #### Experience
 
 * __Out Paper WordPress Developer Outsourced (2015-2016).__
